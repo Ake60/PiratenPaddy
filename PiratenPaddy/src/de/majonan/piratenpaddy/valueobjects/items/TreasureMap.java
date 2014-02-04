@@ -31,6 +31,7 @@ public class TreasureMap extends Item {
 	@Override
 	public void lookAt() {
 		// TODO Auto-generated method stub
+		System.Out.Print ("Papa hat 'Mein Schatz' draufgeschrieben. Sie ist aber zu dreckig, um weiteres zu erkennen")
 
 	}
 
